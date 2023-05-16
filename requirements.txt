@@ -1,0 +1,5 @@
+numpy~=1.23.5
+scikit-image~=0.20.0
+SimpleITK~=2.2.1
+torch~=2.0.0+cpu
+einops~=0.6.0
